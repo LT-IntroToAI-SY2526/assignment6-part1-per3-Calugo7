@@ -1,6 +1,6 @@
 # Assignment 6 Part 1 - Writeup
 
-**Name:** _______________  
+**Name:** Caleb  
 **Date:** _______________
 
 ---
@@ -81,7 +81,7 @@ Why do we split our data into training and testing sets? What would happen if we
 What was the most challenging part of this assignment for you? How did you overcome it (or what help do you still need)?
 
 **YOUR ANSWER:**
-
+The most challenging part of this assignment was 
 
 
 
